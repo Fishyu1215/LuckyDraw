@@ -23,7 +23,7 @@ window.onload = function () {
 
 
 
-         alert("abc");
+         alert(process.env.API_KEY);
 
 
 }
